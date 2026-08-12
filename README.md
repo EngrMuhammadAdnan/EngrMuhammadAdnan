@@ -6,7 +6,7 @@
 - 🍿 Movie enthusiast who loves unwinding with a great story on screen 🎬  
 
 ## What I’m Up To  
-- 🌱 Currently learning: **Software Engineering**  
+- 🌱Dagree: **Software Engineering**  
 - 💻 Diving deeper into: **Flutter apps**, **C++ programming**, **UI/UX design**, **databases**, and **web development**.  
 - 💞️ Open to collaborating on **Flutter apps**, **social media tools**, **database management**, and **C++ projects**.  
 
